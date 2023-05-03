@@ -8,7 +8,7 @@
 
 ---
 
-Cool animation that I created spontaneously while working on heresy packages:
+Cool animation that I created spontaneously while working on heresy packages and updated for github:
 
-https://user-images.githubusercontent.com/67944523/236020342-8975f508-1823-4725-a96f-64c53baf36a1.mov
+https://user-images.githubusercontent.com/67944523/236030707-fd31c6e3-eedd-416c-a798-172ae907c203.mp4
 
