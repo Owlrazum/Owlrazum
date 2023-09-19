@@ -1,11 +1,7 @@
-- ♦️ Game developer working on Unity
-- 🌱 Learning C++, DOTS, and many other things
-- 💬 Ask me about rationality, AI alignment, hpmor
-- 📫 How to reach me: @owlrazum on telegram
-- 😄 Pronouns: he/him, not so important for me.
-- ⚡ Fun fact: do not eat chickens
-- 🤔 Will be glad for any help with DOTS
-- ▶️ Youtube playlist showcasing some of my work: https://youtube.com/playlist?list=PLYvBgGYcUo6C9VAR0K-3z24gvhWpVY4dS
+- ♦️ Game developer (he/him) trying out Godot
+- 💬 Talk with me about anything related to philosophy or politics
+- 📫 How to reach me: @owlrazum on telegram, owlrazum@gmail.com for email
+- ▶️ Youtube playlist showcasing some of my work on Unity: https://youtube.com/playlist?list=PLYvBgGYcUo6C9VAR0K-3z24gvhWpVY4dS
 
 ---
 
