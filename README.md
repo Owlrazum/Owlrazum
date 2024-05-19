@@ -1,4 +1,4 @@
-- ♦️ Game developer (he/him) trying out Godot
+- ♦️ Game developer (he/him) with Unity experience, trying out Godot
 - 💬 Talk with me about anything related to philosophy or politics
 - 📫 How to reach me: @owlrazum on telegram, owlrazum@gmail.com for email
 - ▶️ Youtube playlist showcasing some of my work on Unity: https://youtube.com/playlist?list=PLYvBgGYcUo6C9VAR0K-3z24gvhWpVY4dS
